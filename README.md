@@ -95,4 +95,4 @@ Contributi al miglioramento del codice o all'ottimizzazione degli algoritmi sono
 
 ## Licenza
 
-Questo progetto è distribuito sotto la licenza **GPLv3**. Per ulteriori dettagli, consulta il file `LICENSE`.
+Distribuito sotto la **GNU General Public License v3.0**. Vedi il file [LICENSE](LICENSE) per maggiori dettagli.
